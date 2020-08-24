@@ -1,6 +1,6 @@
 function authentication(login, password) {
 	if(login === 'login' && password === 'password') {
-	return 'login';
+	return 'Welcome login';
 	} else {
 	return 'false';
 	}
