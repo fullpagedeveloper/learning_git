@@ -1,2 +1,1 @@
-ahay gokil luuu anjay ahaha
-
+ahayyy:yy gokil luuu anjay, penambahan aja gitu lohhhh
