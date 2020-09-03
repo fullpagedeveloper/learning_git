@@ -1,2 +1,2 @@
-ahay gokil l:uuu anjay
+ahay gokil luuu anjay ahaha
 
