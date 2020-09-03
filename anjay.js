@@ -1,1 +1,1 @@
-ahayyy:yy gokil l:uuu anjay
+ahayyy:yy gokil luuu anjay, penambahan aja gitu lohhhh
